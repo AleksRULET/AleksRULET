@@ -3,7 +3,7 @@ Welcome to my personal GitHub page!
 
 - 🌱 I’m currently learning Java
 - 🔭 I'm currently working on the [SharingFavoritePlaces](https://github.com/Doberman786/SharingFavoritePlaces) group project.
-- 👯 I cooperate with [Doberman786](https://github.com/Doberman786)
+- 👯 I cooperate with [shabalin-aleksandr](https://github.com/shabalin-aleksandr)
 - 📫 How to reach me: telegram [@AleksRULET](https://t.me/AleksRULET)
 - 😄 Pronouns: He/Him
 
